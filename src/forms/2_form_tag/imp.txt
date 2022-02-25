@@ -1,0 +1,6 @@
+// <form> tag
+
+    // Default behaviour of <form> tag, is that -
+            when we submit the form, then page refresh is automatic because "It is the default behaviour of <form> tag with submit button
+
+// So, we solved this problem in ----- LoginForm.js file (If you login this file, then first check UseFormTag.js file)
