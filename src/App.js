@@ -3,6 +3,7 @@ import React from "react";
 import Examples from "./common_examples/Examples";
 import MainComponent from "./custom_component_examples/MainComponent";
 import Forms from "./forms/Forms";
+import Hooks from "./hooks/Hooks";
 
 // main component
 const App = () => {
@@ -10,7 +11,8 @@ const App = () => {
     <div>
       {/* <Examples /> */}
       {/* <MainComponent /> */}
-      <Forms />
+      {/* <Forms /> */}
+      <Hooks />
     </div>
   );
 };
