@@ -1,0 +1,10 @@
+// ===> and write this code in 'package.json'
+
+    write this code ---- '"start":"node index.js"'
+
+
+// ====> when we used heroku
+    then create 'Procfile' on root folder after create 'Procfile' then write this line =====> 
+
+    write this code ---- 'web: node index.js'
+    not do this -------- 'web : node index.js'
